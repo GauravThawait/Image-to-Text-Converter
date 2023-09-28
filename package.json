@@ -1,0 +1,17 @@
+{
+  "name": "imgtotext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "gaurav thawait",
+  "license": "ISC",
+  "dependencies": { 
+    "tesseract.js": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
